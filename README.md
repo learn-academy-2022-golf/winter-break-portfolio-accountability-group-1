@@ -44,7 +44,8 @@ To accomplish this project everyone will work on their portfolio and receive fee
   - Each member of each team is responsible for checking out their team members portfolios, 
     - making sure they have everything required
     - giving helpful, kind, constructive feedback
-  - Each team member will be filling out their own version of the document below. Copy the document and add your name to it (ie winter-project-austin.md)
+  - Each team member will be filling out their own version of the document below. Copy the document and add your name to it (ie 
+  )
   - As team members we want to see each other succeed. Over the next two weeks we will need to take time to look over each other portfolios and give each other feedback. This can only be done effectively with deployed portfolios.  
 
 Process: 
