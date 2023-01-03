@@ -63,38 +63,37 @@ Process:
 
   Accountability Document 
 
-  Portfolio Owner:  
-  Portfolio Deployment Link: 
- _________________________________ 
-     [] Title  
-     [] Elevator Pitch  
-     [] Links to:  
-       - [] Github  
-       - [] LinkedIn  
-       - [] Email  
-     [] 3 Projects Displayed  
-       - [] Link to repo  
+  Portfolio Owner: Kent Stone
+  Portfolio Deployment Link: https://kentstone84.github.io/
+     [X] Title  
+     [X] Elevator Pitch  
+     [X] Links to:  
+       - [X] Github  
+       - [X] LinkedIn  
+       - [X] Email  
+     [X] 3 Projects Displayed  
+       - [X] Link to repo  
        - [] Write up on the Project (2-3 sentences about the project)  
        - [] Video of the project running OR Project deployed on portfolio  
        - [] Stack of Project explained 
-     [] Consistent Theme
-     [] Spell check / Grammar check 
+     [X] Consistent Theme
+     [X] Spell check / Grammar check 
 
    
-  Portfolio Owner:  
-  Portfolio Deployment Link: 
+  Portfolio Owner: Mike 
+  Portfolio Deployment Link: https://mikesc27.github.io/
  _________________________________ 
-     [] Title  
-     [] Elevator Pitch  
-     [] Links to:  
-       - [] Github  
-       - [] LinkedIn  
-       - [] Email  
-     [] 3 Projects Displayed  
-       - [] Link to repo  
-       - [] Write up on the Project (2-3 sentences about the project)  
-       - [] Video of the project running OR Project deployed on portfolio  
-       - [] Stack of Project explained 
-     [] Consistent Theme
-     [] Spell check / Grammar check 
+     [X] Title  
+     [X] Elevator Pitch  
+     [X] Links to:  
+       - [X] Github  
+       - [X] LinkedIn  
+       - [X] Email  
+     [X] 3 Projects Displayed  
+       - [X] Link to repo  
+       - [X] Write up on the Project (2-3 sentences about the project)  
+       - [X] Video of the project running OR Project deployed on portfolio  
+       - [x] Stack of Project explained 
+     [X] Consistent Theme
+     [X] Spell check / Grammar check 
 
